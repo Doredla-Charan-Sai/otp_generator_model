@@ -3,10 +3,16 @@ This is a simple web application where users enter a randomly generated number a
 
 ## Features
 Random 4-digit number generation
+
 User input handling with real-time feedback
+
 Success and failure views
+
 Automatic number change every 10 seconds
+
 ## Files
 index.html: Contains the HTML structure of the application.
+
 index.css: Contains the CSS styles for the application.
+
 index.js: Contains the JavaScript code that powers the application's functionality.
