@@ -63,10 +63,8 @@
     font-size: 500px;
     color: rgb(154, 17, 17);
 }
-@media (max-width: 576px) {
+@media (max-width: 768px) {
     .main-cont{
-        height: 100vh;
-        width: 100vw;
         padding: 30px;
     }
     .main-head{
