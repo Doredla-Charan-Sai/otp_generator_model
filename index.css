@@ -17,6 +17,7 @@
     color: rgb(107, 5, 141);
     font-weight: bold;
     margin-bottom: 10px;
+    text-align: center;
 }
 .number-input{
     width: 130px;
@@ -61,4 +62,7 @@
 .wrong{
     font-size: 500px;
     color: rgb(154, 17, 17);
+}
+@media (max-width: 576px) {
+    
 }
